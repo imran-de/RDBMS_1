@@ -8,7 +8,7 @@ This project contains SQL queries demonstrating standard RDBMS operations using 
 
 ## Queries Overview
 
-The `queries.sql` file includes the following operations:
+The [queries.sql](queries.sql) file includes the following operations:
 
 ### 1. JOIN
 **Goal:** Retrieve comprehensive booking details.
