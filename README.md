@@ -22,7 +22,7 @@ The [queries.sql](queries.sql) file includes the following operations:
 
 ### 3. WHERE Clause
 **Goal:** Filter vehicles by type.
-- Selects all information for vehicles where the type is 'car'.
+- Selects all information for vehicles where the type is 'car' and status is 'available'.
 
 ### 4. GROUP BY and HAVING
 **Goal:** Find popular vehicles.

@@ -26,7 +26,7 @@ FROM vehicles
 SELECT 
     *
 FROM vehicles
-    WHERE type IN ('car');
+    WHERE type IN ('car') AND status = 'available';
 
 
 -- Query 4: GROUP BY and HAVING
