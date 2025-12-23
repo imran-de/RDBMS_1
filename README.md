@@ -3,8 +3,8 @@
 This project contains SQL queries demonstrating standard RDBMS operations using a sample dataset related to a vehicle rental system.
 
 ## Files
-- **`[queries.sql](queries.sql)`**: Contains the SQL queries.
-- **`[SampleQuery.md](SampleQuery.md)`**: Provides sample data and the expected output for each query.
+- **[queries.sql](queries.sql)**: Contains the SQL queries.
+- **[SampleQuery.md](SampleQuery.md)**: Provides sample data and the expected output for each query.
 
 ## Queries Overview
 
